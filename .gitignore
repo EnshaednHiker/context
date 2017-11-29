@@ -1,0 +1,15 @@
+node_modules
+
+.env
+
+.netlify
+
+reports
+
+context-server
+
+context-webclient
+
+context-extension
+
+resources
